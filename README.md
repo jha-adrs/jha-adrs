@@ -3,7 +3,7 @@
 - 🎓 A college student by day
 - 👨‍💻 A software developer by night
 - 🔩 Currently forging **GCal** into the next big thing
-- 🗺️ My universe of code [aadarshjha.com](aadarshjha.com)
+- 🗺️ My universe of code [aadarshjha.com](https://aadarshjha.com)
 
 Fun fact: I speak the language of humans too 😉
 
