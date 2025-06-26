@@ -3,7 +3,7 @@
 - 🎓 A college student by day
 - 👨‍💻 A software developer by night
 - 🔩 Currently forging **GCal** into the next big thing
-- 🗺️ My universe of code [platinumj.dev](https://platinumj.dev)
+- 🗺️ My universe of code [platinumj.dev](https://platinumj.xyz)
 
 Fun fact: I speak the language of humans too 😉
 
